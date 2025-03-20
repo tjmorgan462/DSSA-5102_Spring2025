@@ -13,7 +13,7 @@ _Data Science and Strategic Analytics Graduate Program_ - [Stockton University](
 - Assignment #3 - Metadata
     - Creating a metadata file with all necessary components
 
-### Student Repositories:
+
 
 <b>Dataset name: </b> Indicators of Anxiety or Depression Based on Reported Frequency of Symptoms <br>
 <b>Company/Government Organization: </b> National Center for Health Statistics <br>
