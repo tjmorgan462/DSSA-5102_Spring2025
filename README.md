@@ -12,6 +12,18 @@ _Data Science and Strategic Analytics Graduate Program_ - [Stockton University](
     - Preparing our dataset for our future class database (Master dataset not available on repository).
 - Assignment #3 - Metadata
     - Creating a metadata file with all necessary components
+- Assignment #4 - Only Murders in the...Database?
+    - An introduction to basic SQL commands and queries.
+- Assignment #5 - Only Murders in the...Database? Cont.
+    - Practice using basic SQL commands and queries.
+- Assignment #6 - Creating a Database from scratch in Python
+    - Locally, and with MySQL Workbench.
+- Assignment #7 - Populating our Database
+    - Develop a database schema in MySQL Workbench with our populated database.
+- Assignment #8 - JOINs
+    - Practice using JOINs on our database to answer questions.
+- Assignment #9 - Miscellaneous SQL
+- Assignment #10 - Pulling it all Together!
 
 
 
